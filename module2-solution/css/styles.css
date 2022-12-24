@@ -28,11 +28,9 @@ p{
     font-size: larger;
     overflow: hidden;
     height: 105px !important;
+    clear:both;
 }
 
-br{
-   clear:both;
-}
 
 /*<!-- Developed by Advitiya Gupta - bittugupta1393@gmail.com - https://www.linkedin.com/in/advitiyagupta1312/ -->*/
 /********** Custom Class styles **********/
