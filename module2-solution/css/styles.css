@@ -10,15 +10,17 @@ h1 {
     font-family: cursive;
     margin-bottom: 36px;
     margin-top: 36px;
+    font-size: xxx-large;
 }
 
 h2{ 
     border: 1px solid black;
     text-align: center;
     font-family: cursive;
-    width:175px !important; 
+    width:190px !important; 
     float:right; 
     margin-top: 0px;
+    font-size: xxx-large;
 }
 
 p{
